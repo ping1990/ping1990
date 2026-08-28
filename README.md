@@ -40,23 +40,6 @@ The ultimate automated localization pipeline that translates and localizes video
 A strategic tool for marketers and indie hackers to **[generate high-converting AI ads](https://ai-ad-generator.com/)** in seconds. 
 - **Problem Solved**: Analyze Winning Ads & Generate AI Video Ads to skyrocket your ROI.
 
-### [Discord-Timestamp-Generator](https://discord-timestamp-generator.com)
-A productivity utility to generate **[localized Discord timestamps](https://discord-timestamp-generator.com)**.
-- **Problem Solved**: Eliminates timezone confusion in global Discord communities.
-
-### [Tap and Hold Image Maker](https://tapandhold.com/)
-
-A specialized viral marketing tool designed to create interactive long-press hidden images for X (Twitter) directly in the browser.
-
-- **Viral Trend Optimized:** Specifically engineered for the viral "Tap and Hold" / 長押しで変化 trend on X (Twitter).
-- **100% Client-Side Processing:** Powered by HTML5 Canvas API (`getImageData` / `putImageData`). Your images are processed locally and never uploaded to any server.
-- **Zero Friction & SSR Ready:** No signups, no watermarks, fast load times, and seamlessly built with Next.js 14 and Web APIs.
-- **Live Tool:** [Tap and Hold Image Maker](https://tapandhold.com/)
-- **Tools Hub:** [All Tools & Features](https://tapandhold.com/tools)
-- **Step-by-Step Guide:** [How to Make Tap and Hold Images](https://tapandhold.com/tools/how-to-make-tap-and-hold-images)
-- **Official Blog:** [Tap and Hold Blog](https://tapandhold.com/blog)
-
-
 ### ⚡ Technical Challenges I'm Tackling:
 * **SSR Architecture**
 * **Privacy**: Building secure, tracking-free ways to access public social data. 
