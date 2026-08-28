@@ -62,4 +62,3 @@ A specialized viral marketing tool designed to create interactive long-press hid
 * **Privacy**: Building secure, tracking-free ways to access public social data. 
 * **AI Integration**: Leveraging LLMs to simplify complex spreadsheet logic. 
 ---
-🔗 **Official Site**: [twitterwebviewer.com](https://twitterwebviewer.com)  
